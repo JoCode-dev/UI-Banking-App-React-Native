@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/priego light.otf",
+      "sha1": "4787db9808a4fcef96905fe2767baf5e42bbfa06"
+    },
+    {
+      "path": "src/assets/fonts/priego medium.otf",
+      "sha1": "cf45c15c9cc81c7fa8084d9e3a13d4b7c51c545e"
+    },
+    {
+      "path": "src/assets/fonts/priego regular.otf",
+      "sha1": "d7a0637941d4909b54270c760b5c5cbdd0fde829"
+    },
+    {
+      "path": "src/assets/fonts/priego semibold.otf",
+      "sha1": "fa3a96e7cc6cad54c08878becd1a915bd1c0c1ae"
+    }
+  ]
+}
