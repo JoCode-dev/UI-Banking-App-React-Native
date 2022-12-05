@@ -1,1 +1,1 @@
-# UI-Banking-App---React-Native
+# UI-Banking-App - React-Native
